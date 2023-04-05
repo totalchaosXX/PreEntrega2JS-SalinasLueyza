@@ -1,0 +1,15 @@
+
+
+.box {
+  margin-top: 10px;
+  box-shadow: 2px 3px 3px 0 rgba(50, 50, 50, 0.29);
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgb(241,241,241);
+
+}
+
+
